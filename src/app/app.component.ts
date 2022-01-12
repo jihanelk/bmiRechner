@@ -10,6 +10,7 @@ export class AppComponent {
   ergebnis: string = '';
   spektrum: string = '';
   bmiResultValid: boolean = false;
+  test:any = "test";
 
   bmiRechner() {
     let rueckmeldung: number = 0;
