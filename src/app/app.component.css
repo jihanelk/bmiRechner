@@ -1,0 +1,33 @@
+.main {
+    background-color: rgb(255, 255, 255);
+    color: #96A0E5
+}
+
+p {
+    text-align: center;
+    color: rgb(0, 96, 141)
+}
+
+.heading {
+    text-align: center;
+}
+
+.myInput {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#myLink {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#image {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 300;
+    width: 100%;
+}
